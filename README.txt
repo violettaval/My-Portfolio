@@ -1,4 +1,4 @@
-Shell Portfolio Sample Work
+Violet Valencia's Portfolio Work
 
 From scratch built a fluid response website
 With dynamic images and navigational links
